@@ -1,0 +1,7 @@
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- First black M -->
+  <text x="10" y="50" font-family="Arial" font-size="48" fill="black">M</text>
+
+  <!-- Second black M -->
+  <text x="90" y="50" font-family="Arial" font-size="48" fill="black">M</text>
+</svg>
