@@ -105,7 +105,6 @@ const dataportfolio = [
 
 const contactConfig = {
     YOUR_EMAIL: "markus@mutas.com",
-    YOUR_FONE: "(+49) 1765 7748909",
     description: "",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
@@ -114,7 +113,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/mutasDev",
-    linkedin: "https://www.linkedin.com/in/markus-mutas-6a735a174/",
+    linkedin: "https://www.linkedin.com/in/markusmutas/",
 };
 export {
     meta,
